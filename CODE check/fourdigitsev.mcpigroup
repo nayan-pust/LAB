@@ -1,0 +1,9 @@
+[PROJECTS]
+Count=5
+Project0=G:\LAB-MC\sevensegtwobutton.mcppi
+Project1=Relay.mcppi
+Project2=servo.mcppi
+Project3=stepper.mcppi
+Project4=fourdigitsev.mcppi
+[ActiveProject]
+Index=4

@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\bussi\Desktop\CODE check\fourdigitsev.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\bussi\Desktop\CODE check\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "fourdigitsev.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	fourdigitsev.c
+diagnostics: 43	123	Compiled Successfully	fourdigitsev.c
+hint: 5	1164	Variable 'button1' has been eliminated by optimizer	fourdigitsev.c
+hint: 5	1164	Variable 'button2' has been eliminated by optimizer	fourdigitsev.c
+hint: 5	1164	Variable 'button3' has been eliminated by optimizer	fourdigitsev.c
+hint: 5	1164	Variable 'button4' has been eliminated by optimizer	fourdigitsev.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 22 (6%)  Free RAM (bytes): 330 (94%)	Used RAM (bytes): 22 (6%)  Free RAM (bytes): 330 (94%)
+hint: 0	1144	Used ROM (program words): 341 (4%)  Free ROM (program words): 7851 (96%)	Used ROM (program words): 341 (4%)  Free ROM (program words): 7851 (96%)
+diagnostics: 0	125	Project Linked Successfully	fourdigitsev.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'fourdigitsev.mcppi' completed: 235 ms	 
+diagnostics: 0	103	Finished successfully: 07 Nov 2023, 00:18:27	fourdigitsev.mcppi

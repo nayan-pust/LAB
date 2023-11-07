@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\7 Segment One digit\sevenSegment0To9.mcppi
+Project1=ADC.mcppi
+[ActiveProject]
+Index=1
